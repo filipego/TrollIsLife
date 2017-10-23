@@ -33,6 +33,7 @@
 
 body {
 	color: black;
+	background: red;
 }
 
 header {
@@ -89,7 +90,7 @@ header {
 .image-badge, .audio-badge, .badge-video {
 	top: 0%;
 	margin-right: 0px;
-	
+
 }
 
 nav {
@@ -191,7 +192,7 @@ a.active-nav-icon {
 }
 
 .border-overview {
-	border: 1px solid #9d9d9d;	
+	border: 1px solid #9d9d9d;
 	clear: both;
 }
 
@@ -375,7 +376,7 @@ a.active-nav-icon {
 }
 
 .thumbnail:hover {
-	background: lightgrey; 
+	background: lightgrey;
 	border: 2px solid rgb(46, 179, 152);
 }
 
@@ -416,13 +417,13 @@ a.active-nav-icon {
 .thumbsup {
 	top: -5px;
 	left: -35px;
-	width: 1; 
- 	height: 1; 
+	width: 1;
+ 	height: 1;
  	border-left: 60px solid transparent;
   	border-right: 60px solid transparent;
   	border-bottom: 60px solid rgb(46, 179, 152);
-  	-ms-transform: rotate(180deg); 
-    -webkit-transform: rotate(90deg); 
+  	-ms-transform: rotate(180deg);
+    -webkit-transform: rotate(90deg);
     transform: rotate(-45deg);
 
 }
@@ -448,8 +449,8 @@ a.active-nav-icon {
 	top: 23px;
 	left: -13px;
 	transform: translate(-50%, -50%);
-	-ms-transform: rotate(180deg); 
-    -webkit-transform: rotate(90deg); 
+	-ms-transform: rotate(180deg);
+    -webkit-transform: rotate(90deg);
     transform: rotate(40deg);
 }
 
@@ -561,22 +562,22 @@ button:focus {
 		padding-right: 0px;
 		margin-top: 0px
 	}
-	
+
 	.float-right {
 		margin-top: 65px;
 	}
-	
+
 	.activity {
 		float: none;
 		margin-bottom: 0px;
 	}
-	
+
 	.activity p {
 		margin-top: 20px;
 	}
 
 	header .float-right {
-		margin-top: 0;	
+		margin-top: 0;
 	}
 
 	audio {
@@ -590,14 +591,3 @@ button:focus {
 		padding-left: 0 !important;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
